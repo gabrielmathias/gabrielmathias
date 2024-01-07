@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gabrielmathias a brazilian eclectic software developer that likes Java, Python, Perl and PHP! 
+- 👋 Hi, I’m @gabrielmathias a brazilian eclectic software developer that likes Java, Python and PHP! 
 - 👀 I’m interested in woodworking and electronics projects
 - 🌱 I’m currently learning German!!
-- 💞️ I’m looking to 
-- 📫 How to reach me on ://linkedin.com/in/gabrielmathias
+- 💞️ I’m looking for a software engineer or Devops position in Berlin/Remote 
+- 📫 How to reach me on [http://linkedin.com/in/gabrielmathias](LinkedIn)
 
 <!---
 gabrielmathias/gabrielmathias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
